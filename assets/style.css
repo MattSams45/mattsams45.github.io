@@ -41,7 +41,7 @@ transition: 0.4s ease-in-out;
   overflow: hidden;
   margin-bottom: 0.3em;
 }
-a:hover{
+.card a:hover, a:hover{
   color: #5294ce;
   text-decoration: underline;
 }
@@ -53,7 +53,7 @@ a{
   color: #5294ce;
   text-decoration: none;
 }
-a:active{
+.card a:active, a:active{
   color: #3380c4;
 }
 .bo{
